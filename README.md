@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alice
 
-🎓 I'm currently pursuing a **Master’s Degree in Data Science and Engineering** at [Politecnico di Torino](https://www.polito.it) 🇮🇹  
+🎓 I'm pursuing a **Master’s Degree in Data Science and Engineering** at [Politecnico di Torino](https://www.polito.it) 🇮🇹  
 🌏 Currently studying at **KAIST (Korea Advanced Institute of Science and Technology)** 🇰🇷, exploring **Machine Learning, Deep Learning, and Generative Models**  
 💡 I’m passionate about machine learning, deep learning, and their applications in real-world data problems
 
