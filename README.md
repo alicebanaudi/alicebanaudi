@@ -9,12 +9,6 @@
 
 ---
 
-## 🚀 About Me
-I’m a data science enthusiast with a background in **Computer Science** and hands-on experience in **machine learning**, **deep learning**, and **computer vision**.  
-I love turning complex data into meaningful insights and experimenting with models that can learn and adapt.
-
----
-
 ## 🧩 Projects
 | 🧠 Project | 🔍 Description | ⚙️ Tools |
 |-------------|----------------|-----------|
