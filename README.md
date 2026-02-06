@@ -20,7 +20,6 @@ I love turning complex data into meaningful insights and experimenting with mode
 |-------------|----------------|-----------|
 | 🚦 [Generative Experience Replay for RL](https://github.com/alicebanaudi/Experience-Replay-for-Action-Generalization-and-Multi-Agent-System) | Studied synthetic and prioritized generative replay to improve sample efficiency in RL for traffic control and multi-agent settings | `PyTorch` `RL` `Diffusion Models` |
 | 🖼️ [Photomosaic Generation with SDXL](https://github.com/m4rk-git/Visual-Generation-Contest) | Built a generative photomosaic system combining Stable Diffusion XL with classical color quantization to create large-scale images from semantic micro-tiles | `PyTorch` `Diffusers` `Computer Vision` |
-
 | 🧠 [Semantic Segmentation (UDA)](https://github.com/LeoRamill/ADACS) | Explored cross-domain segmentation combining multiple UDA techniques | `PyTorch` `mmsegmentation` |
 | 🎙️ [Voice-based Age Prediction](https://github.com/CarlaFinocchiaro/Age-Estimation) | Built regression models for predicting speaker age from audio features | `Scikit-learn` `Librosa` |
 | 📊 [PCA & Clustering Analysis](https://github.com/alicebanaudi/CompLinAlgebra) | Applied PCA and k-Means to uncover hidden structures in survey data | `NumPy` `Pandas` |
