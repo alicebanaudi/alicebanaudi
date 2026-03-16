@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alice
 
 🎓 I'm pursuing a **Master’s Degree in Data Science and Engineering** at [Politecnico di Torino](https://www.polito.it) 🇮🇹  
-🌏 Currently studying at **KAIST (Korea Advanced Institute of Science and Technology)** 🇰🇷, exploring **Machine Learning, Deep Learning, and Generative Models**  
+🌏 Former **exchange student at KAIST (Korea Advanced Institute of Science and Technology)** 🇰🇷, where I deepened my knowledge of **Machine Learning, Deep Learning, and Generative Models**  
 💡 I’m passionate about machine learning, deep learning, and their applications in real-world data problems
 
 📫 Reach me at: [alicebanaudi01@gmail.com](mailto:alicebanaudi01@gmail.com)  
