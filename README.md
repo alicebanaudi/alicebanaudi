@@ -2,8 +2,8 @@
 
 🎓 I'm pursuing a **Master’s Degree in Data Science and Engineering** at [Politecnico di Torino](https://www.polito.it) 🇮🇹  
 🌏 Former **exchange student at KAIST (Korea Advanced Institute of Science and Technology)** 🇰🇷, where I deepened my knowledge of **Machine Learning, Deep Learning, and Generative Models**  
+🔬 Currently a **Visiting Researcher at Pro²Future**, working on my **Master’s internship** and **thesis** focused on **Physical AI, World Models, Computer Vision**, and **event-based cameras**
 💡 I’m passionate about machine learning, deep learning, and their applications in real-world data problems
-
 📫 Reach me at: [alicebanaudi01@gmail.com](mailto:alicebanaudi01@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/alice-banaudi](https://www.linkedin.com/in/alice-banaudi-57b9372a8)
 
@@ -22,10 +22,19 @@
 ---
 ## 💻 Tech Stack
 
-**Languages & Tools:**  
-🧠 Python • Java • C • SQL • R  
-📊 Pandas • NumPy • Scikit-learn • PyTorch • TensorFlow  
-🤖 Reinforcement Learning • Diffusion Models  
-🌐 Flask • Express.js • Spring Boot • MongoDB • PostgreSQL  
-🖥️ Docker • Git • Figma • LaTeX  
+**Languages:**
+🧠 Python • Java • C • JavaScript • SQL • R
+
+**Machine Learning & Data:**
+📊 PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • Apache Spark • Hugging Face Diffusers • Librosa
+
+**AI & Research:**
+🤖 Computer Vision • World Models • JEPA • Reinforcement Learning • Diffusion Models • Event-based Vision
+
+**Backend & Databases:**
+🌐 Flask • Express.js • Spring Boot • MongoDB • PostgreSQL
+
+**Tools & Development:**
+🖥️ Docker • Git • Linux • Jupyter • LaTeX • Figma • ROS • Gazebo
+
 
